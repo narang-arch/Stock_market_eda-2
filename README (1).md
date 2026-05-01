@@ -1,4 +1,4 @@
-# 📈 Stock Market Exploratory Data Analysis
+#  Stock Market Exploratory Data Analysis
 
 > **Author:** Ruhani Narang &nbsp;|&nbsp; B.Sc. Economics, Doon University  
 > **Tools:** Python · Pandas · Matplotlib · Seaborn · NumPy  
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on historical stock market data for **10 major Indian stocks** over a **5-year period (2019–2023)**. The goal is to uncover market trends, measure risk and return, identify inter-stock correlations, and generate actionable investment insights using Python.
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 - Collect and preprocess multi-year historical stock price data
 - Engineer financial features: moving averages, daily returns, rolling volatility
@@ -22,7 +22,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on histori
 
 ---
 
-## 📊 Stocks Analysed
+##  Stocks Analysed
 
 | Stock | Sector |
 |-------|--------|
@@ -39,7 +39,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on histori
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Preprocessing
 - Handled missing values, outliers, and datetime indexing
@@ -65,7 +65,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on histori
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **IT sector stocks (TCS, INFY, WIPRO)** showed strong positive correlations **(0.85+)**, meaning they tend to move together — useful for portfolio diversification decisions.
 - **Rolling volatility spikes** clearly corresponded to real-world market events (COVID crash, rate hike cycles).
@@ -74,7 +74,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on histori
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 stock_market_eda/
@@ -87,7 +87,7 @@ stock_market_eda/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repository
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 python stock_eda.py
 ```
 
-> 📌 The script generates **simulated data** by default.  
+>  The script generates **simulated data** by default.  
 > To use real data, replace the data generation block with your own CSV:
 > ```python
 > df = pd.read_csv('your_stock_data.csv', index_col='Date', parse_dates=True)
@@ -109,7 +109,7 @@ python stock_eda.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -121,11 +121,11 @@ python stock_eda.py
 
 ---
 
-## 📬 Connect
+##  Connect
 
-- 📧 narangruhani51@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ruhani-narang-7573b4338/)  
-- 🐙 [GitHub](https://github.com/narang-arch)
+-  narangruhani51@gmail.com  
+-  [LinkedIn](https://linkedin.com/in/ruhani-narang-7573b4338/)  
+-  [GitHub](https://github.com/narang-arch)
 
 ---
 
