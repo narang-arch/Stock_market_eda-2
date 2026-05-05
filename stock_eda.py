@@ -187,4 +187,5 @@ desc['skewness'] = returns_df.skew().values
 desc['kurtosis'] = returns_df.kurtosis().values
 print(desc[['mean','std','min','max','skewness','kurtosis']].round(4))
 
-print("\n✅ Analysis complete!")
+print("\n Analysis complete!")
+
