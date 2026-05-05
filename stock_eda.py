@@ -17,7 +17,7 @@ plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("tab10")
 
 # ============================================================
-#  1. GENERATE SAMPLE DATA  (replace with your CSV if you have one)
+#  1. GENERATE SAMPLE DATA  
 # ============================================================
 np.random.seed(42)
 
