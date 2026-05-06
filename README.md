@@ -129,4 +129,5 @@ python stock_eda.py
 
 ---
 
-*This project was built as part of my data analytics portfolio. Feel free to fork, star ⭐, or reach out!*
+*This project was built as part of my data analytics portfolio. Feel free to fork, star , or reach out!*
+Fixed strikethrough formatting in README
