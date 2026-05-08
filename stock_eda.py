@@ -174,7 +174,7 @@ ax8.tick_params(axis='x', rotation=45, labelsize=8)
 
 plt.tight_layout(rect=[0, 0, 1, 0.97])
 plt.savefig("stock_market_eda_plots.png", dpi=150, bbox_inches='tight')
-print("\n✅ Plot saved as stock_market_eda_plots.png")
+print("\n Plot saved as stock_market_eda_plots.png")
 plt.show()
 
 # ============================================================
